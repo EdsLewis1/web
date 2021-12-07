@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 
 :root {
-  --primary-color: #347cb8;
-  --secondary-color: #001aff;
-  --dark-color: #09085c;
+  --primary-color: #bc00d4;
+  --secondary-color: #b95d9a;
+  --dark-color: #55085c;
   --light-color: #ffff;
   --success-color: #5cb85c;
   --error-color: #d9534f;
@@ -388,7 +388,7 @@ pre {
   }
 
   .video {
-    width: 500px;
+    width: 410px;
   }
 }
 
@@ -408,7 +408,7 @@ pre {
   }
 
   .video {
-    width: 350px;
+    width: 300px;
   }
   
   .showcase-form {
